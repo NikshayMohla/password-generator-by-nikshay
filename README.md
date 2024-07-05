@@ -5,8 +5,9 @@ A simple password generator website.
 ## Features
 - Generates strong passwords
 - Customizable length
+- Strength Indicator
 - Options to include/exclude special characters, numbers, and uppercase letters
--Strength Indicator
+
 
 ## Screenshots
 
